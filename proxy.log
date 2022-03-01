@@ -1,0 +1,246 @@
+20:29:32:INFO:Tue, 01 Mar 2022 20:29:32 
+20:29:32:INFO:DESKTOP-3A5OVKK
+20:29:32:INFO:10.10.38.85
+20:29:34:INFO:>>> REGISTER sip:10.10.38.85 SIP/2.0
+20:29:34:INFO:From: phone@10.10.38.85 - Contact: 10.10.38.86:44651
+20:29:34:INFO:<<< SIP/2.0 200 OKEJ
+20:29:34:INFO:>>> REGISTER sip:10.10.38.85 SIP/2.0
+20:29:34:INFO:From: tomas@10.10.38.85 - Contact: 10.10.38.85:57978
+20:29:34:INFO:<<< SIP/2.0 200 OKEJ
+20:29:34:INFO:>>> PUBLISH sip:tomas@10.10.38.85 SIP/2.0
+20:29:34:INFO:<<< SIP/2.0 200 OKEJ
+20:29:37:INFO:>>> REGISTER sip:10.10.38.85 SIP/2.0
+20:29:37:INFO:From: tomas@10.10.38.85 - Contact: 10.10.38.85:57978
+20:29:37:INFO:<<< SIP/2.0 200 OKEJ
+20:29:40:INFO:>>> REGISTER sip:10.10.38.85 SIP/2.0
+20:29:40:INFO:From: phone@10.10.38.85 - Contact: 10.10.38.86:44651
+20:29:40:INFO:<<< SIP/2.0 200 OKEJ
+20:29:42:INFO:>>> INVITE sip:phone@10.10.38.85 SIP/2.0
+20:29:42:INFO:destination phone@10.10.38.85
+20:29:42:INFO:<<< INVITE sip:phone@10.10.38.85 SIP/2.0
+20:29:42:INFO:>>> SIP/2.0 100 Trying
+20:29:42:INFO:<<< SIP/2.0 100 Skusanie
+20:29:42:INFO:>>> SIP/2.0 180 Ringing
+20:29:42:INFO:<<< SIP/2.0 180 Zvonenie
+20:29:44:INFO:>>> CANCEL sip:phone@10.10.38.85 SIP/2.0
+20:29:44:INFO:destination phone@10.10.38.85
+20:29:44:INFO:<<< CANCEL sip:phone@10.10.38.85 SIP/2.0
+20:29:44:INFO:>>> SIP/2.0 200 Ok
+20:29:44:INFO:<<< SIP/2.0 200 OKEJ
+20:29:44:INFO:>>> SIP/2.0 487 Request terminated
+20:29:44:INFO:<<< SIP/2.0 487 Request terminated
+20:29:44:INFO:>>> ACK sip:phone@10.10.38.85 SIP/2.0
+20:29:44:INFO:destination phone@10.10.38.85
+20:29:44:INFO:<<< ACK sip:phone@10.10.38.85 SIP/2.0
+20:30:00:INFO:>>> INVITE sip:phone@10.10.38.85 SIP/2.0
+20:30:00:INFO:destination phone@10.10.38.85
+20:30:00:INFO:<<< INVITE sip:phone@10.10.38.85 SIP/2.0
+20:30:00:INFO:>>> SIP/2.0 100 Trying
+20:30:00:INFO:<<< SIP/2.0 100 Skusanie
+20:30:01:INFO:>>> SIP/2.0 180 Ringing
+20:30:01:INFO:<<< SIP/2.0 180 Zvonenie
+20:30:03:INFO:>>> SIP/2.0 200 Ok
+20:30:03:INFO:<<< SIP/2.0 200 OKEJ
+20:30:03:INFO:>>> SIP/2.0 200 Ok
+20:30:03:INFO:<<< SIP/2.0 200 OKEJ
+20:30:04:INFO:>>> ACK sip:phone@10.10.38.86:44651;transport=udp SIP/2.0
+20:30:04:INFO:destination phone@10.10.38.85
+20:30:04:INFO:<<< ACK sip:phone@10.10.38.86:44651;transport=udp SIP/2.0
+20:30:04:INFO:>>> ACK sip:phone@10.10.38.86:44651;transport=udp SIP/2.0
+20:30:04:INFO:destination phone@10.10.38.85
+20:30:04:INFO:<<< ACK sip:phone@10.10.38.86:44651;transport=udp SIP/2.0
+20:30:13:INFO:>>> BYE sip:tomas@10.10.38.85:57978;transport=udp SIP/2.0
+20:30:13:INFO:destination tomas@10.10.38.85
+20:30:13:INFO:<<< BYE sip:tomas@10.10.38.85:57978;transport=udp SIP/2.0
+20:30:13:INFO:>>> SIP/2.0 200 Ok
+20:30:13:INFO:<<< SIP/2.0 200 OKEJ
+20:31:20:INFO:Tue, 01 Mar 2022 20:31:20 
+20:31:20:INFO:DESKTOP-3A5OVKK
+20:31:20:INFO:10.10.38.85
+20:31:36:INFO:>>> REGISTER sip:10.10.38.85 SIP/2.0
+20:31:36:INFO:From: tomas@10.10.38.85 - Contact: 10.10.38.85:57978
+20:31:36:INFO:<<< SIP/2.0 200 OKEJ
+20:32:00:INFO:>>> INVITE sip:phone@10.10.38.85 SIP/2.0
+20:32:00:INFO:destination phone@10.10.38.85
+20:32:00:INFO:<<< SIP/2.0 480 Docasne nedostupne
+20:32:00:INFO:>>> ACK sip:phone@10.10.38.85 SIP/2.0
+20:32:00:INFO:destination phone@10.10.38.85
+20:32:07:INFO:Tue, 01 Mar 2022 20:32:07 
+20:32:07:INFO:DESKTOP-3A5OVKK
+20:32:07:INFO:10.10.38.85
+20:32:11:INFO:>>> REGISTER sip:10.10.38.85 SIP/2.0
+20:32:11:INFO:From: tomas@10.10.38.85 - Contact: 10.10.38.85:57978
+20:32:11:INFO:<<< SIP/2.0 200 OKEJ
+20:32:25:INFO:>>> REGISTER sip:10.10.38.85 SIP/2.0
+20:32:25:INFO:From: phone@10.10.38.85 - Contact: 10.10.38.86:44651
+20:32:25:INFO:<<< SIP/2.0 200 OKEJ
+20:32:46:INFO:Tue, 01 Mar 2022 20:32:46 
+20:32:46:INFO:DESKTOP-3A5OVKK
+20:32:46:INFO:10.10.38.85
+20:32:53:INFO:>>> REGISTER sip:10.10.38.85 SIP/2.0
+20:32:53:INFO:From: tomas@10.10.38.85 - Contact: 10.10.38.85:57978
+20:32:53:INFO:<<< SIP/2.0 200 OKEJ
+20:32:56:INFO:>>> REGISTER sip:10.10.38.85 SIP/2.0
+20:32:56:INFO:From: phone@10.10.38.85 - Contact: 10.10.38.86:44651
+20:32:56:INFO:<<< SIP/2.0 200 OKEJ
+20:32:58:INFO:>>> INVITE sip:phone@10.10.38.85 SIP/2.0
+20:32:58:INFO:destination phone@10.10.38.85
+20:32:58:INFO:<<< INVITE sip:phone@10.10.38.85 SIP/2.0
+20:32:58:INFO:>>> SIP/2.0 100 Trying
+20:32:58:INFO:<<< SIP/2.0 100 Skusanie
+20:32:58:INFO:>>> SIP/2.0 180 Ringing
+20:32:58:INFO:<<< SIP/2.0 180 Zvonenie
+20:33:02:INFO:>>> SIP/2.0 200 Ok
+20:33:02:INFO:<<< SIP/2.0 200 OKEJ
+20:33:02:INFO:>>> SIP/2.0 200 Ok
+20:33:02:INFO:<<< SIP/2.0 200 OKEJ
+20:33:03:INFO:>>> ACK sip:phone@10.10.38.86:44651;transport=udp SIP/2.0
+20:33:03:INFO:destination phone@10.10.38.85
+20:33:03:INFO:<<< ACK sip:phone@10.10.38.86:44651;transport=udp SIP/2.0
+20:33:03:INFO:>>> ACK sip:phone@10.10.38.86:44651;transport=udp SIP/2.0
+20:33:03:INFO:destination phone@10.10.38.85
+20:33:03:INFO:<<< ACK sip:phone@10.10.38.86:44651;transport=udp SIP/2.0
+20:33:05:INFO:>>> BYE sip:tomas@10.10.38.85:57978;transport=udp SIP/2.0
+20:33:05:INFO:destination tomas@10.10.38.85
+20:33:05:INFO:<<< BYE sip:tomas@10.10.38.85:57978;transport=udp SIP/2.0
+20:33:05:INFO:>>> SIP/2.0 200 Ok
+20:33:05:INFO:<<< SIP/2.0 200 OKEJ
+20:33:45:INFO:>>> REGISTER sip:10.10.38.85 SIP/2.0
+20:33:45:INFO:From: phone@10.10.38.85 - Contact: 10.10.38.86:44651
+20:33:45:INFO:<<< SIP/2.0 200 OKEJ
+20:35:06:INFO:>>> INVITE sip:tomas@10.10.38.85 SIP/2.0
+20:35:06:INFO:destination tomas@10.10.38.85
+20:35:06:INFO:<<< INVITE sip:tomas@10.10.38.85 SIP/2.0
+20:35:06:INFO:>>> SIP/2.0 100 Trying
+20:35:06:INFO:<<< SIP/2.0 100 Skusanie
+20:35:07:INFO:>>> SIP/2.0 180 Ringing
+20:35:07:INFO:<<< SIP/2.0 180 Zvonenie
+20:35:09:INFO:>>> SIP/2.0 200 Ok
+20:35:09:INFO:<<< SIP/2.0 200 OKEJ
+20:35:10:INFO:>>> SIP/2.0 200 Ok
+20:35:10:INFO:<<< SIP/2.0 200 OKEJ
+20:35:10:INFO:>>> SIP/2.0 200 Ok
+20:35:10:INFO:<<< SIP/2.0 200 OKEJ
+20:35:12:INFO:>>> SIP/2.0 200 Ok
+20:35:12:INFO:<<< SIP/2.0 200 OKEJ
+20:35:14:INFO:>>> BYE sip:phone@10.10.38.86:44651;transport=udp SIP/2.0
+20:35:14:INFO:destination phone@10.10.38.85
+20:35:14:INFO:<<< BYE sip:phone@10.10.38.86:44651;transport=udp SIP/2.0
+20:35:14:INFO:>>> BYE sip:phone@10.10.38.86:44651;transport=udp SIP/2.0
+20:35:14:INFO:destination phone@10.10.38.85
+20:35:14:INFO:<<< BYE sip:phone@10.10.38.86:44651;transport=udp SIP/2.0
+20:35:15:INFO:>>> BYE sip:phone@10.10.38.86:44651;transport=udp SIP/2.0
+20:35:15:INFO:destination phone@10.10.38.85
+20:35:15:INFO:<<< BYE sip:phone@10.10.38.86:44651;transport=udp SIP/2.0
+20:35:16:INFO:>>> SIP/2.0 200 Ok
+20:35:16:INFO:<<< SIP/2.0 200 OKEJ
+20:35:17:INFO:>>> BYE sip:phone@10.10.38.86:44651;transport=udp SIP/2.0
+20:35:17:INFO:destination phone@10.10.38.85
+20:35:17:INFO:<<< BYE sip:phone@10.10.38.86:44651;transport=udp SIP/2.0
+20:35:20:INFO:>>> SIP/2.0 200 Ok
+20:35:20:INFO:<<< SIP/2.0 200 OKEJ
+20:35:21:INFO:>>> BYE sip:phone@10.10.38.86:44651;transport=udp SIP/2.0
+20:35:21:INFO:destination phone@10.10.38.85
+20:35:21:INFO:<<< BYE sip:phone@10.10.38.86:44651;transport=udp SIP/2.0
+20:35:24:INFO:>>> SIP/2.0 200 Ok
+20:35:24:INFO:<<< SIP/2.0 200 OKEJ
+20:35:25:INFO:>>> BYE sip:phone@10.10.38.86:44651;transport=udp SIP/2.0
+20:35:25:INFO:destination phone@10.10.38.85
+20:35:25:INFO:<<< BYE sip:phone@10.10.38.86:44651;transport=udp SIP/2.0
+20:35:28:INFO:>>> SIP/2.0 200 Ok
+20:35:28:INFO:<<< SIP/2.0 200 OKEJ
+20:35:29:INFO:>>> REGISTER sip:10.10.38.85 SIP/2.0
+20:35:29:INFO:From: phone@10.10.38.85 - Contact: 10.10.38.86:44651
+20:35:29:INFO:<<< SIP/2.0 200 OKEJ
+20:35:29:INFO:>>> BYE sip:phone@10.10.38.86:44651;transport=udp SIP/2.0
+20:35:29:INFO:destination phone@10.10.38.85
+20:35:29:INFO:<<< BYE sip:phone@10.10.38.86:44651;transport=udp SIP/2.0
+20:35:29:INFO:>>> SIP/2.0 481 Call/transaction does not exist
+20:35:29:INFO:<<< SIP/2.0 481 Call/transaction does not exist
+20:35:49:INFO:>>> INVITE sip:tomas@10.10.38.85 SIP/2.0
+20:35:49:INFO:destination tomas@10.10.38.85
+20:35:49:INFO:<<< INVITE sip:tomas@10.10.38.85 SIP/2.0
+20:35:49:INFO:>>> SIP/2.0 100 Trying
+20:35:49:INFO:<<< SIP/2.0 100 Skusanie
+20:35:50:INFO:>>> SIP/2.0 180 Ringing
+20:35:50:INFO:<<< SIP/2.0 180 Zvonenie
+20:36:01:INFO:>>> SIP/2.0 603 Decline
+20:36:01:INFO:<<< SIP/2.0 603 Decline
+20:36:01:INFO:>>> ACK sip:tomas@10.10.38.85 SIP/2.0
+20:36:01:INFO:destination tomas@10.10.38.85
+20:36:01:INFO:<<< ACK sip:tomas@10.10.38.85 SIP/2.0
+20:37:20:INFO:Tue, 01 Mar 2022 20:37:20 
+20:37:20:INFO:DESKTOP-3A5OVKK
+20:37:20:INFO:10.10.38.85
+20:37:21:INFO:>>> REGISTER sip:10.10.38.85 SIP/2.0
+20:37:21:INFO:From: phone@10.10.38.85 - Contact: 10.10.38.86:44651
+20:37:21:INFO:<<< SIP/2.0 200 OKEJ
+20:37:28:INFO:>>> REGISTER sip:10.10.38.85 SIP/2.0
+20:37:28:INFO:From: tomas@10.10.38.85 - Contact: 10.10.38.85:57978
+20:37:28:INFO:<<< SIP/2.0 200 OKEJ
+20:37:36:INFO:>>> REGISTER sip:10.10.38.85 SIP/2.0
+20:37:36:INFO:From: phone@10.10.38.85 - Contact: 10.10.38.86:44651
+20:37:36:INFO:<<< SIP/2.0 200 OKEJ
+20:37:38:INFO:>>> INVITE sip:phone@10.10.38.85 SIP/2.0
+20:37:38:INFO:destination phone@10.10.38.85
+20:37:38:INFO:<<< INVITE sip:phone@10.10.38.85 SIP/2.0
+20:37:38:INFO:>>> SIP/2.0 100 Trying
+20:37:38:INFO:<<< SIP/2.0 100 Skusanie
+20:37:39:INFO:>>> SIP/2.0 180 Ringing
+20:37:39:INFO:<<< SIP/2.0 180 Zvonenie
+20:37:43:INFO:>>> SIP/2.0 200 Ok
+20:37:43:INFO:<<< SIP/2.0 200 OKEJ
+20:37:44:INFO:>>> SIP/2.0 200 Ok
+20:37:44:INFO:<<< SIP/2.0 200 OKEJ
+20:37:45:INFO:>>> SIP/2.0 200 Ok
+20:37:45:INFO:<<< SIP/2.0 200 OKEJ
+20:37:45:INFO:>>> ACK sip:phone@10.10.38.86:44651;transport=udp SIP/2.0
+20:37:45:INFO:destination phone@10.10.38.85
+20:37:45:INFO:<<< ACK sip:phone@10.10.38.86:44651;transport=udp SIP/2.0
+20:37:46:INFO:>>> ACK sip:phone@10.10.38.86:44651;transport=udp SIP/2.0
+20:37:46:INFO:destination phone@10.10.38.85
+20:37:46:INFO:<<< ACK sip:phone@10.10.38.86:44651;transport=udp SIP/2.0
+20:37:46:INFO:>>> ACK sip:phone@10.10.38.86:44651;transport=udp SIP/2.0
+20:37:46:INFO:destination phone@10.10.38.85
+20:37:46:INFO:<<< ACK sip:phone@10.10.38.86:44651;transport=udp SIP/2.0
+20:38:50:INFO:>>> BYE sip:phone@10.10.38.86:44651;transport=udp SIP/2.0
+20:38:50:INFO:destination phone@10.10.38.85
+20:38:50:INFO:<<< BYE sip:phone@10.10.38.86:44651;transport=udp SIP/2.0
+20:38:51:INFO:>>> SIP/2.0 200 Ok
+20:38:51:INFO:<<< SIP/2.0 200 OKEJ
+20:39:00:INFO:>>> INVITE sip:phone@10.10.38.85 SIP/2.0
+20:39:00:INFO:destination phone@10.10.38.85
+20:39:00:INFO:<<< INVITE sip:phone@10.10.38.85 SIP/2.0
+20:39:00:INFO:>>> SIP/2.0 100 Trying
+20:39:00:INFO:<<< SIP/2.0 100 Skusanie
+20:39:00:INFO:>>> SIP/2.0 180 Ringing
+20:39:00:INFO:<<< SIP/2.0 180 Zvonenie
+20:39:01:INFO:>>> CANCEL sip:phone@10.10.38.85 SIP/2.0
+20:39:01:INFO:destination phone@10.10.38.85
+20:39:01:INFO:<<< CANCEL sip:phone@10.10.38.85 SIP/2.0
+20:39:01:INFO:>>> SIP/2.0 200 Ok
+20:39:01:INFO:<<< SIP/2.0 200 OKEJ
+20:39:01:INFO:>>> SIP/2.0 487 Request terminated
+20:39:01:INFO:<<< SIP/2.0 487 Request terminated
+20:39:01:INFO:>>> ACK sip:phone@10.10.38.85 SIP/2.0
+20:39:01:INFO:destination phone@10.10.38.85
+20:39:01:INFO:<<< ACK sip:phone@10.10.38.85 SIP/2.0
+20:39:06:INFO:>>> INVITE sip:tomas@10.10.38.85 SIP/2.0
+20:39:06:INFO:destination tomas@10.10.38.85
+20:39:06:INFO:<<< INVITE sip:tomas@10.10.38.85 SIP/2.0
+20:39:06:INFO:>>> SIP/2.0 100 Trying
+20:39:06:INFO:<<< SIP/2.0 100 Skusanie
+20:39:07:INFO:>>> SIP/2.0 180 Ringing
+20:39:07:INFO:<<< SIP/2.0 180 Zvonenie
+20:39:10:INFO:>>> CANCEL sip:tomas@10.10.38.85 SIP/2.0
+20:39:10:INFO:destination tomas@10.10.38.85
+20:39:10:INFO:<<< CANCEL sip:tomas@10.10.38.85 SIP/2.0
+20:39:10:INFO:>>> SIP/2.0 200 Ok
+20:39:10:INFO:<<< SIP/2.0 200 OKEJ
+20:39:10:INFO:>>> SIP/2.0 487 Request terminated
+20:39:10:INFO:<<< SIP/2.0 487 Request terminated
+20:39:10:INFO:>>> ACK sip:tomas@10.10.38.85 SIP/2.0
+20:39:10:INFO:destination tomas@10.10.38.85
+20:39:10:INFO:<<< ACK sip:tomas@10.10.38.85 SIP/2.0
+20:39:17:INFO:>>> REGISTER sip:10.10.38.85 SIP/2.0
+20:39:17:INFO:<<< SIP/2.0 200 OKEJ

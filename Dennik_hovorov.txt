@@ -1,0 +1,84 @@
+
+
+Odchádzajúci hovor: tomas
+Prichádzajúci hovor: phone
+
+Odchádzajúci hovor: tomas
+Prichádzajúci hovor: phone
+2022-03-01 19:25:54 Zaciatok hovoru
+2022-03-01 19:25:59 Koniec hovoru
+dlzka hovoru: 5 sec
+Call-ID: TT~E5qVnLE
+
+Odchádzajúci hovor: tomas
+Prichádzajúci hovor: phone
+
+
+
+Odchádzajúci hovor: tomas
+Prichádzajúci hovor: phone
+2022-03-01 20:30:03 Zaciatok hovoru
+2022-03-01 20:30:13 Koniec hovoru
+dlzka hovoru: 10 sec
+Call-ID: 12-EzdTfWC
+
+Odchádzajúci hovor: tomas
+Prichádzajúci hovor: phone
+
+Odchádzajúci hovor: tomas
+Prichádzajúci hovor: phone
+2022-03-01 20:33:02 Zaciatok hovoru
+2022-03-01 20:33:05 Koniec hovoru
+dlzka hovoru: 3 sec
+Call-ID: jVLwYTcUL-
+
+Odchádzajúci hovor: phone
+Prichádzajúci hovor: tomas
+2022-03-01 20:35:09 Zaciatok hovoru
+2022-03-01 20:35:14 Koniec hovoru
+dlzka hovoru: 5 sec
+Call-ID: H3EBXjfYhN
+2022-03-01 20:35:09 Zaciatok hovoru
+2022-03-01 20:35:14 Koniec hovoru
+dlzka hovoru: 6 sec
+Call-ID: H3EBXjfYhN
+2022-03-01 20:35:09 Zaciatok hovoru
+2022-03-01 20:35:15 Koniec hovoru
+dlzka hovoru: 7 sec
+Call-ID: H3EBXjfYhN
+2022-03-01 20:35:09 Zaciatok hovoru
+2022-03-01 20:35:17 Koniec hovoru
+dlzka hovoru: 9 sec
+Call-ID: H3EBXjfYhN
+2022-03-01 20:35:09 Zaciatok hovoru
+2022-03-01 20:35:21 Koniec hovoru
+dlzka hovoru: 13 sec
+Call-ID: H3EBXjfYhN
+2022-03-01 20:35:09 Zaciatok hovoru
+2022-03-01 20:35:25 Koniec hovoru
+dlzka hovoru: 17 sec
+Call-ID: H3EBXjfYhN
+2022-03-01 20:35:09 Zaciatok hovoru
+2022-03-01 20:35:29 Koniec hovoru
+dlzka hovoru: 21 sec
+Call-ID: H3EBXjfYhN
+
+Odchádzajúci hovor: phone
+Prichádzajúci hovor: tomas
+
+Odchádzajúci hovor: tomas
+Prichádzajúci hovor: phone
+2022-03-01 20:37:43 Zaciatok hovoru
+2022-03-01 20:38:50 Koniec hovoru
+dlzka hovoru: 67 sec
+Call-ID: 1WRiffKea7
+
+Odchádzajúci hovor: tomas
+Prichádzajúci hovor: phone
+
+
+
+Odchádzajúci hovor: phone
+Prichádzajúci hovor: tomas
+
+
